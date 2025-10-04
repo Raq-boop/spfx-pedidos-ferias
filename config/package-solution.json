@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "reactjs-sharepoint-client-side-solution",
+    "id": "2adf010c-519d-45ea-ae3d-dfc872ac5d69",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "reactjsSharepoint description"
+      },
+      "longDescription": {
+        "default": "reactjsSharepoint description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "reactjs-sharepoint Feature",
+        "description": "The feature that activates elements of the reactjs-sharepoint solution.",
+        "id": "7cc0e187-05c9-49bd-81a5-93566ba5fbbb",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/reactjs-sharepoint.sppkg"
+  }
+}
